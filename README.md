@@ -14,7 +14,7 @@ This is where it usually is stored
 ## Default Workshop Path
 
 
-Update the `workshop_path` variable in the script if your install is elsewhere, sir.
+Update the `workshop_path` variable in the script if your install is elsewhere.
 
 ---
 
